@@ -1,234 +1,201 @@
-<h1 align="center">Hi 👋, I'm Siddharth Srivastava</h1>
+<div align="center">
 
-<h3 align="center">
-Full Stack Developer • DevOps & Cloud Engineer • AWS Enthusiast
-</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e3a8a&height=220&section=header&text=Siddharth%20Srivastava&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20DevOps%20%26%20Cloud%20Engineer&descAlignY=55&descSize=18" width="100%"/>
 
-<p align="center">
-Building scalable web applications, cloud infrastructure, automation, and modern backend systems.
-</p>
+<a href="https://linkedin.com/in/siddharth-neon">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:siddharthsri9889@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<img src="https://komarev.com/ghpvc/?username=ssneon1&label=Profile%20Views&color=1e3a8a&style=for-the-badge" />
 
----
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=3B82F6&center=true&vCenter=true&width=650&lines=Full+Stack+Web+Developer+%F0%9F%92%BB;DevOps+%26+Cloud+Engineer+%E2%98%81%EF%B8%8F;Python+%7C+React.js+%7C+AWS+%7C+MySQL;Building+scalable%2C+production-ready+systems" />
+
+</div>
+
+<br/>
 
 ## 🚀 About Me
 
-- 💻 Full Stack Developer with hands-on experience building production-ready applications.
-- ☁️ DevOps & Cloud Engineer passionate about AWS, Docker, CI/CD, and Linux.
-- 🚀 Deployed multiple production applications on AWS EC2 with Nginx & Gunicorn.
-- 🔥 Experienced with Flask, Django, React, Flutter, MySQL, SQLAlchemy, and REST APIs.
-- 📈 Built scalable CRM systems, AI-powered platforms, Government portals, and mobile applications.
-- 🌱 Currently learning Kubernetes, Terraform, and advanced cloud architecture.
-- ⚡ I enjoy solving deployment challenges more than writing bugs.
+```python
+class SiddharthSrivastava:
+    def __init__(self):
+        self.role = "Full Stack Developer & Cloud/DevOps Engineer"
+        self.location = "Prayagraj, Uttar Pradesh, India"
+        self.stack = ["Python", "Flask", "Django", "React.js", "MySQL", "AWS"]
+        self.currently_learning = ["Kubernetes", "Terraform", "Advanced Cloud Architecture"]
+        self.fun_fact = "I enjoy solving deployment challenges more than writing bugs 🐛"
 
----
-
-# 🛠 Tech Stack
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,javascript,dart,cpp,html,css,mysql" />
-</p>
-
-### Frameworks
-
-<p>
-<img src="https://skillicons.dev/icons?i=flask,django,react,flutter" />
-</p>
-
-### DevOps & Cloud
-
-<p>
-<img src="https://skillicons.dev/icons?i=aws,docker,linux,nginx,git,github,bash" />
-</p>
-
-### Databases
-
-- MySQL
-- SQLite
-- SQLAlchemy
-- AWS RDS
-
----
-
-# ☁ Cloud & DevOps
-
-✔ AWS EC2
-
-✔ AWS RDS
-
-✔ AWS S3
-
-✔ Docker
-
-✔ Linux Server Administration
-
-✔ Gunicorn
-
-✔ Nginx
-
-✔ CI/CD Pipelines
-
-✔ SSH Deployment
-
-✔ GitHub Actions (Learning)
-
----
-
-# 🚀 Featured Projects
-
-## 🏢 Delivery CRM & POS
-
-Production CRM Platform built using Flask + MySQL
-
-### Features
-
-- Customer Management
-- POS
-- Attendance System
-- Task Management
-- RBAC
-- Real-Time Group Chat
-- Flutter Mobile App
-- REST APIs
-- AWS Deployment
-
-Tech Stack
-
-```
-Flask
-MySQL
-AWS EC2
-Gunicorn
-Nginx
-Docker
-Flutter
+    def say_hi(self):
+        print("Thanks for stopping by — let's build something great!")
 ```
 
----
+- 💻 Full Stack Developer with hands-on experience shipping production-ready applications
+- ☁️ Deployed and maintained multiple applications on **AWS EC2** with **Nginx & Gunicorn**
+- 🏢 Built scalable **CRM systems**, **AI-powered platforms**, **government portals**, and **mobile apps**
+- 🔥 Comfortable across the stack — **Flask, Django, React.js, Flutter, MySQL, SQLAlchemy, REST APIs**
+- 🌱 Currently leveling up in **Kubernetes**, **Terraform**, and cloud architecture
+- 🎯 Looking to contribute to impactful products alongside experienced engineering teams
 
-## 🤖 AI Powered Job Portal
+<br/>
 
-Large scale recruitment platform.
+## 🛠️ Tech Stack
 
-### Features
+<div align="center">
 
-- 10,000+ Government Jobs
-- AI Content Processing
-- PDF Extraction
-- Admin Dashboard
-- Fast Search
-- Cloud Deployment
+**Languages**
 
-Tech
+<img src="https://skillicons.dev/icons?i=python,js,dart,cpp,html,css,mysql" />
 
-```
-Python
-Flask
-SQLAlchemy
-SQLite
-AWS
-```
+**Frameworks & Libraries**
 
----
+<img src="https://skillicons.dev/icons?i=flask,django,react,flutter,tailwind" />
 
-## 🏛 Government Schemes Portal
+**Cloud & DevOps**
 
-A searchable Government schemes platform.
+<img src="https://skillicons.dev/icons?i=aws,docker,linux,nginx,git,github,bash,githubactions" />
 
-Features
+**Databases**
 
-- Categories
-- Eligibility Finder
-- Admin Panel
-- Cloud Hosting
-- Responsive UI
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres" />
 
----
+</div>
 
-## ❤️ Health & Wellness Assistant
+<br/>
 
-Hackathon Project
+## ☁️ Cloud & DevOps Toolkit
 
-- Team Leader
-- Built in 24 Hours
-- Python
-- Kivy
+<div align="center">
 
----
+| Compute & Hosting | Storage & Data | CI/CD & Ops |
+|:---:|:---:|:---:|
+| AWS EC2 | AWS RDS | Docker |
+| Gunicorn | AWS S3 | CI/CD Pipelines |
+| Nginx | MySQL / SQLite | SSH Deployment |
+| Linux Server Admin | SQLAlchemy | GitHub Actions *(learning)* |
 
-# 📜 Certifications
+</div>
 
-- AWS Solutions Architecture Job Simulation
-- Jenkins for Beginners
-- Git Basics for DevOps
-- Getting Started with DevOps on AWS
-- Google Python
-- Tata Consultancy Services Soft Skills
+<br/>
 
----
+## 🚀 Featured Projects
 
-# 📈 GitHub Stats
+<div align="center">
 
-<p align="center">
+<a href="#">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ssneon1&repo=delivery-crm-pos&theme=tokyonight&title_color=3B82F6&text_color=c9d1d9&bg_color=0d1117" />
+</a>
+<a href="#">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ssneon1&repo=ai-job-portal&theme=tokyonight&title_color=3B82F6&text_color=c9d1d9&bg_color=0d1117" />
+</a>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ssneon1&show_icons=true&theme=tokyonight"/>
+</div>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ssneon1&theme=tokyonight"/>
+### 🏢 Delivery CRM & POS System
+Production-grade CRM handling customer operations, POS workflows, and multi-branch management — cut manual tracking effort by ~60%.
+- Task assignment, attendance tracking & automated follow-ups
+- Real-time Group Chat module with secure MySQL-backed messaging
+- Role-based access control (RBAC) for 20+ internal users
+- Companion **Flutter** app for delivery agents with voice + live chat
+- `Flask` `MySQL` `AWS EC2` `Gunicorn` `Nginx` `Docker` `Flutter`
 
-</p>
+### 🤖 AI-Powered Government Job Portal
+Large-scale recruitment platform managing **10,000+ job listings**.
+- Multi-provider AI workflows for automated PDF & text extraction
+- Modular Flask + SQLAlchemy backend — cut admin data-entry time by ~40%
+- `Python` `Flask` `SQLAlchemy` `AWS EC2`
 
----
+### 🏛️ Government Schemes Portal
+Searchable, categorized citizen-facing resource hub.
+- Full deployment lifecycle: hosting, DB integration, cloud maintenance
+- Optimized for high availability and fast page loads
+- `Flask` `AWS EC2` `MySQL`
 
-# 💻 Most Used Languages
+### ❤️ Health & Wellness Assistant (Kivy)
+Built as **Team Leader** during the **CodeStorm '25** hackathon, in a 24-hour sprint.
+- `Python` `Kivy`
 
-<p align="center">
+<br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssneon1&layout=compact&theme=tokyonight"/>
+## 📜 Certifications
 
-</p>
+<div align="center">
 
----
+![AWS](https://img.shields.io/badge/AWS_Solutions_Architecture-Forage-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins_for_Beginners-KodeKloud-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Git](https://img.shields.io/badge/Git_Basics_for_DevOps-KodeKloud-F05032?style=flat-square&logo=git&logoColor=white)
+![Python](https://img.shields.io/badge/Python_101_for_Data_Science-Cognitive_Class-3776AB?style=flat-square&logo=python&logoColor=white)
+![Google](https://img.shields.io/badge/Hello%2C_Python!-Google-4285F4?style=flat-square&logo=google&logoColor=white)
+![TCS](https://img.shields.io/badge/Soft_Skills-TCS-4E54C8?style=flat-square)
 
-# 🏆 GitHub Trophy
+</div>
 
-<p align="center">
+<br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=ssneon1&theme=onedark&margin-w=15"/>
+## 📊 GitHub Analytics
 
-</p>
+<div align="center">
 
----
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ssneon1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=ssneon1&theme=tokyonight&hide_border=true" />
 
-# 🌍 Connect With Me
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssneon1&layout=compact&theme=tokyonight&hide_border=true" />
 
-<p>
+</div>
 
-📧 Email:
-**siddharthsri9889@gmail.com**
+<div align="center">
 
-💼 LinkedIn:
-https://linkedin.com/in/siddharth-neon
+<img src="https://github-profile-trophy.vercel.app/?username=ssneon1&theme=tokyonight&margin-w=15&no-frame=true&row=1" />
 
-🌐 Portfolio:
-Coming Soon
+</div>
 
-</p>
+<br/>
 
----
+## 📈 Contribution Graph
 
-# 💡 Quote
+<div align="center">
 
-> "First solve the problem. Then automate it."
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ssneon1&theme=tokyo-night&hide_border=true" width="100%" />
 
----
+</div>
 
-<p align="center">
+<br/>
 
-<img src="https://komarev.com/ghpvc/?username=ssneon1&label=Profile%20Views&color=0e75b6&style=flat"/>
+## 🐍 Contribution Snake
 
-</p>
+<div align="center">
 
----
+<img src="https://raw.githubusercontent.com/ssneon1/ssneon1/output/github-contribution-grid-snake-dark.svg" width="100%" />
 
-⭐ From **Siddharth Srivastava**
+<sub>⚠️ Enable via the <a href="https://github.com/Platane/snk">snk GitHub Action</a> in this repo to activate the animated snake above.</sub>
+
+</div>
+
+<br/>
+
+## 🌍 Connect With Me
+
+<div align="center">
+
+<a href="mailto:siddharthsri9889@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/siddharth-neon"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Portfolio-Coming_Soon-1e3a8a?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+> *"First solve the problem. Then automate it."*
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:0f172a&height=120&section=footer" width="100%"/>
+
+<div align="center">
+⭐ From <b>Siddharth Srivastava</b>
+</div>
