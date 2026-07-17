@@ -83,17 +83,6 @@ class SiddharthSrivastava:
 
 ## 🚀 Featured Projects
 
-<div align="center">
-
-<a href="#">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ssneon1&repo=delivery-crm-pos&theme=tokyonight&title_color=3B82F6&text_color=c9d1d9&bg_color=0d1117" />
-</a>
-<a href="#">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ssneon1&repo=ai-job-portal&theme=tokyonight&title_color=3B82F6&text_color=c9d1d9&bg_color=0d1117" />
-</a>
-
-</div>
-
 ### 🏢 Delivery CRM & POS System
 Production-grade CRM handling customer operations, POS workflows, and multi-branch management — cut manual tracking effort by ~60%.
 - Task assignment, attendance tracking & automated follow-ups
@@ -139,10 +128,12 @@ Built as **Team Leader** during the **CodeStorm '25** hackathon, in a 24-hour sp
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ssneon1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=ssneon1&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ssneon1&show_icons=true&theme=tokyonight" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=ssneon1&theme=tokyonight" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssneon1&layout=compact&theme=tokyonight&hide_border=true" />
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssneon1&layout=compact&theme=tokyonight" />
 
 </div>
 
